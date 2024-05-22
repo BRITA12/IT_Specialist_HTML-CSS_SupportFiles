@@ -1,5 +1,9 @@
 ﻿body
 {
     font-family:'Segoe UI',Tahoma ,sans-serif;
+    back-ground: #fab66b;
+}
+p{
+    color: navy;
 }
 
