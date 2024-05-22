@@ -1,6 +1,5 @@
-﻿body
-{
-    font-family:"Segoe UI",Tahoma,sans-serif;
+﻿body{
+    font-family:'Segoe UI',Tahoma,sans-serif;
     background-color:#fab66b;
 }
 p {
@@ -22,7 +21,6 @@ a {
     text-decoration:none;
 }
 a:hover {
-    background-color: aqua;
-    text-decoration:underline;
+    text-decoration: underline;
     font-weight:bold;
  }
