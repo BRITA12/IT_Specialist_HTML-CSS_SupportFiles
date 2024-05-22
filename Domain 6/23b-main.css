@@ -5,6 +5,7 @@
 }
 p {
     color: navy;
+    /*The background color extends across the page, so, we have commented it out for now.*/
 }
 a {
     text-decoration:none;
@@ -12,7 +13,7 @@ a {
 figcaption {
     color: navy;
     font-weight: bold;
-    background-color: aqua;
+    /*background-color: aqua;*/
 }
 a:hover {
     text-decoration:underline;
