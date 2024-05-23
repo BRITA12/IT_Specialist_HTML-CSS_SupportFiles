@@ -17,3 +17,6 @@ li a, .dropBTn{
 li a:hover, .dropDown:hover .dropBTn{
   background-color:red;
 }
+li.dropDown{
+  display:inline-block;
+}
