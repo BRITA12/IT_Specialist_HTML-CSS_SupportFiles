@@ -26,3 +26,16 @@ li.dropDown{
   background-color:#f9f9f9;
   mix-width:160px;
   box-shadow: 0px 8px 16px 0px rgba(1,0,1,0.3);
+}
+.dropDown-content a{
+  color:black;
+  display:block;
+  text-align:left;
+}
+.dropDown-content a:hover{
+background-color:#f1f2f1;
+color:pink;
+}
+.dropDown:hover .dropDown-content{
+  
+}
