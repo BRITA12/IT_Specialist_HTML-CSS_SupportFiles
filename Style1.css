@@ -14,3 +14,6 @@ li a, .dropBTn{
   text-align:center;
   padding: 12pdx 14px;
 }
+li a:hover, .dropDown:hover .dropBTn{
+  background-color:red;
+}
