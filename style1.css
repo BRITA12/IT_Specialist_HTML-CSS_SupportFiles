@@ -20,10 +20,6 @@ li{
 	height: 120px;
 	text-align: right;
 	font-style: oblique;
-  background-image: url('background.jpg');
-  background-repeat:no-repeat;
-  background-attachment:fixed;
-  background-size:cover;
 }
 li a, .dropBtn{
   display: inline-bloock;
