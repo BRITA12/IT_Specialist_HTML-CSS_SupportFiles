@@ -43,13 +43,16 @@ li{
         background-size:cover;
 }
 #container2{
- border: 3px solid #000000;
-  position: absolute;
-  right:1px;
-  margin: 2px;
-  padding: 2px;
-  height: 970px;
-  width:63%;
+border:2px #ec32dc solid;
+	position: relative;
+	top: 2px;
+	margin: 15px;
+	padding: 10px;
+	height: 700px;
+        background-image: url('background.jpg');
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-size:cover;
 }
 h1{
 	font-size: 0.7em;
