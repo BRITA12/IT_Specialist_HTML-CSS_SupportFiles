@@ -42,10 +42,22 @@ li{
         background-attachment:fixed;
         background-size:cover;
 }
+#container2{
+ border: 3px solid #000000;
+  position: absolute;
+  right:1px;
+  margin: 2px;
+  padding: 2px;
+  height: 970px;
+  width:63%;
+}
 h1{
 	font-size: 0.7em;
   text-shadow: #ec69d4 ;
   
+}
+h2{
+  text-align:left;
 }
 li a, .dropBtn{
   display: inline-bloock;
