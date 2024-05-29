@@ -42,6 +42,11 @@ li{
         background-attachment:fixed;
         background-size:cover;
 }
+h1{
+	font-size: 0.7em;
+  text-shadow: #ec69d4 ;
+  
+}
 li a, .dropBtn{
   display: inline-bloock;
   color: pink;
