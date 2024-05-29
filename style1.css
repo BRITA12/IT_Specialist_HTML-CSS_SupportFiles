@@ -20,7 +20,7 @@ li{
 	height: 120px;
 	text-align: right;
 	font-style: oblique;
-  background-image: ('background.jpg');
+  background-image: url('background.jpg');
   background-repeat:no-repeat;
   background-attachment:fixed;
   background-size:cover;
@@ -37,7 +37,7 @@ li{
 	margin: 15px;
 	padding: 10px;
 	height: 700px;
-        background-image: ('background.jpg');
+        background-image: url('background.jpg');
         background-repeat:no-repeat;
         background-attachment:fixed;
         background-size:cover;
