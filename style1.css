@@ -25,6 +25,11 @@ li{
   background-attachment:fixed;
   background-size:cover;
 }
+#logo{
+	width: 100px;
+	position: absolute;
+	left: 50px;
+}
 .container{
 	border:2px #ec32dc solid;
 	position: relative;
